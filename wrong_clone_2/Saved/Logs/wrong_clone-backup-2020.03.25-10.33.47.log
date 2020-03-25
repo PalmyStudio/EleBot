@@ -1,0 +1,1077 @@
+﻿Log file open, 03/25/20 11:27:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: wrong_clone
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170743
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/programs/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Engine.ini]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Engine.ini]
+[2020.03.25-10.27.17:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Engine.ini]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.25-10.27.17:530][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Engine.ini]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.25-10.27.17:531][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Engine.ini]
+[2020.03.25-10.27.17:531][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Engine.ini]
+[2020.03.25-10.27.17:536][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.25-10.27.17:536][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.25-10.27.17:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.25-10.27.17:538][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.25-10.27.17:538][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.25-10.27.17:539][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.25-10.27.17:558][  0]LogHAL: Display: Platform has ~ 16 GB [17129725952 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.25-10.27.17:558][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.25-10.27.17:558][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.25-10.27.17:558][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.25-10.27.17:559][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.25-10.27.17:560][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.25-10.27.17:560][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.25-10.27.17:560][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Scalability.ini]
+[2020.03.25-10.27.17:560][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.25-10.27.17:560][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.25-10.27.17:560][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.25-10.27.17:560][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.25-10.27.17:560][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.25-10.27.17:560][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/EleBot/wrong_clone_2/Saved/Config/Windows/Engine.ini]
+[2020.03.25-10.27.17:560][  0]LogInit: Computer: DESKTOP-EVOFKAB
+[2020.03.25-10.27.17:560][  0]LogInit: User: Trapella
+[2020.03.25-10.27.17:560][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.25-10.27.17:560][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.25-10.27.17:560][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.03.25-10.27.17:560][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.25-10.27.17:560][  0]LogMemory: Process Physical Memory: 96.71 MB used, 96.71 MB peak
+[2020.03.25-10.27.17:560][  0]LogMemory: Process Virtual Memory: 83.84 MB used, 83.84 MB peak
+[2020.03.25-10.27.17:560][  0]LogMemory: Physical Memory: 4900.05 MB used,  11436.13 MB free, 16336.18 MB total
+[2020.03.25-10.27.17:560][  0]LogMemory: Virtual Memory: 4624.98 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2020.03.25-10.27.17:583][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.03.25-10.27.17:583][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.03.25-10.27.17:743][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.25-10.27.17:768][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.25-10.27.17:768][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.25-10.27.17:907][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.25-10.27.17:907][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.25-10.27.17:967][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.03.25-10.27.17:967][  0]LogD3D11RHI:       8079/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.25-10.27.17:969][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.25-10.27.17:969][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.25-10.27.17:969][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.25-10.27.17:975][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.25-10.27.17:976][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.25-10.27.17:976][  0]LogWindows: EnumDisplayDevices:
+[2020.03.25-10.27.17:976][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.03.25-10.27.17:976][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.03.25-10.27.17:976][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.03.25-10.27.17:976][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.03.25-10.27.17:977][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.25-10.27.17:977][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.03.25-10.27.17:977][  0]LogD3D11RHI:   Driver Version: 442.74 (internal:26.21.14.4274, unified:442.74)
+[2020.03.25-10.27.17:977][  0]LogD3D11RHI:      Driver Date: 3-13-2020
+[2020.03.25-10.27.17:977][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.03.25-10.27.18:015][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.25-10.27.18:032][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.25-10.27.18:033][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.25-10.27.18:033][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.25-10.27.18:041][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.25-10.27.18:303][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.25-10.27.18:315][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.25-10.27.18:326][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.25-10.27.18:338][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.25-10.27.18:350][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.25-10.27.18:362][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.25-10.27.18:375][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.25-10.27.18:387][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.25-10.27.18:392][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.25-10.27.18:470][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.25-10.27.18:471][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.25-10.27.18:517][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.25-10.27.18:517][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.25-10.27.18:540][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.25-10.27.18:540][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.25-10.27.18:551][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.25-10.27.18:563][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.25-10.27.18:574][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.25-10.27.18:587][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.25-10.27.18:627][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.25-10.27.18:627][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.25-10.27.18:627][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.25-10.27.18:633][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.25-10.27.18:667][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../Github/EleBot/wrong_clone_2/Intermediate/Shaders/WorkingDirectory/15696/).
+[2020.03.25-10.27.18:667][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Trapella/AppData/Local/Temp/UnrealShaderWorkingDir/B5C37BFC4A80692930A2F5A5827995EE/'.
+[2020.03.25-10.27.18:669][  0]LogXGEController: Cleaning working directory: C:/Users/Trapella/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.25-10.27.18:669][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.25-10.27.18:669][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.25-10.27.18:669][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.25-10.27.19:200][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.25-10.27.19:249][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Trapella/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.25-10.27.19:249][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Trapella/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.25-10.27.19:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/EleBot/wrong_clone_2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.25-10.27.19:249][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.25-10.27.19:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/EleBot/wrong_clone_2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.25-10.27.19:249][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.25-10.27.19:261][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.25-10.27.19:261][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.25-10.27.19:261][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.25-10.27.19:273][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Trapella/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.25-10.27.19:273][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.25-10.27.19:273][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.25-10.27.19:295][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.25-10.27.19:297][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.25-10.27.19:297][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.25-10.27.19:373][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2020.03.25-10.27.19:674][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.25-10.27.19:792][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.25-10.27.19:792][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.25-10.27.19:792][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.25-10.27.19:792][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.25-10.27.19:792][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.25-10.27.19:807][  0]LogNetVersion: wrong_clone 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4030561285)
+[2020.03.25-10.27.20:183][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.034375 seconds
+[2020.03.25-10.27.20:189][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.25-10.27.20:189][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.25-10.27.20:189][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.25-10.27.20:907][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.25-10.27.20:921][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.25-10.27.21:035][  0]SourceControl: Source control is disabled
+[2020.03.25-10.27.21:035][  0]SourceControl: Source control is disabled
+[2020.03.25-10.27.21:036][  0]SourceControl: Source control is disabled
+[2020.03.25-10.27.21:037][  0]SourceControl: Source control is disabled
+[2020.03.25-10.27.21:095][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.25-10.27.21:198][  0]LogOcInput: OculusInput pre-init called
+[2020.03.25-10.27.21:833][  0]LogEngine: Initializing Engine...
+[2020.03.25-10.27.21:834][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.25-10.27.21:835][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.25-10.27.22:037][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.25-10.27.22:046][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.25-10.27.22:084][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.27.22:109][  0]LogInit: FAudioDevice initialized.
+[2020.03.25-10.27.22:109][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.25-10.27.22:242][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Trapella/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.25-10.27.22:252][  0]LogInit: Texture streaming: Enabled
+[2020.03.25-10.27.22:285][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.25-10.27.22:285][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={754D19B5-4173-E04E-DD91-54BF8DC51F45}
+[2020.03.25-10.27.22:309][  0]LogInit: Transaction tracking system initialized
+[2020.03.25-10.27.22:327][  0]BlueprintLog: New page: Editor Load
+[2020.03.25-10.27.22:390][  0]LocalizationService: Localization service is disabled
+[2020.03.25-10.27.22:633][  0]LogFileCache: Scanning file cache for directory 'D:/Github/EleBot/wrong_clone_2/Content/' took 0.01s
+[2020.03.25-10.27.22:633][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.25-10.27.22:633][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.25-10.27.22:772][  0]SourceControl: Source control is disabled
+[2020.03.25-10.27.22:772][  0]Cmd: MAP LOAD FILE="../../../../../Github/EleBot/wrong_clone_2/Content/SideScrollerBP/Maps/Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-10.27.22:772][  0]LightingResults: New page: Lighting Build
+[2020.03.25-10.27.22:774][  0]MapCheck: New page: Map Check
+[2020.03.25-10.27.22:774][  0]LightingResults: New page: Lighting Build
+[2020.03.25-10.27.22:796][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.03.25-10.27.23:132][  0]LogAIModule: Creating AISystem for world Tutorial
+[2020.03.25-10.27.23:144][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-10.27.23:171][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.25-10.27.23:171][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-10.27.23:171][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2020.03.25-10.27.23:171][  0]LogFileHelpers: Loading map 'Tutorial' took 0.399
+[2020.03.25-10.27.23:278][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.27.23:287][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.27.23:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.27.23:302][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.27.23:306][  0]LogCollectionManager: Loaded 0 collections in 0.000786 seconds
+[2020.03.25-10.27.23:321][  0]LogFileCache: Scanning file cache for directory 'D:/Github/EleBot/wrong_clone_2/Saved/Collections/' took 0.01s
+[2020.03.25-10.27.23:321][  0]LogFileCache: Scanning file cache for directory 'D:/Github/EleBot/wrong_clone_2/Content/Developers/Trapella/Collections/' took 0.00s
+[2020.03.25-10.27.23:321][  0]LogFileCache: Scanning file cache for directory 'D:/Github/EleBot/wrong_clone_2/Content/Collections/' took 0.00s
+[2020.03.25-10.27.23:321][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.25-10.27.23:329][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2732 classes and 659 folders.
+[2020.03.25-10.27.23:333][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.25-10.27.23:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:337][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.25-10.27.23:362][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.25-10.27.23:366][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.25-10.27.23:382][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.25-10.27.23:383][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.25-10.27.23:387][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.25-10.27.23:449][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.25-10.27.23:494][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.25-10.27.23:595][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.25-10.27.23:595][  0]LogLoad: (Engine Initialization) Total time: 7.21 seconds
+[2020.03.25-10.27.23:595][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.25-10.27.23:640][  0]LogAssetRegistry: Asset discovery search completed in 4.2883 seconds
+[2020.03.25-10.27.23:642][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.25-10.27.23:642][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2020.03.25-10.27.23:644][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.25-10.27.23:686][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Github/EleBot/wrong_clone_2/Content/' took 0.07s
+[2020.03.25-10.27.43:508][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.27.43:899][419]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.27.43:912][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.27.43:912][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.27.43:912][419]PIE: New page: PIE session: Tutorial (Mar 25, 2020, 12:27:43 PM)
+[2020.03.25-10.27.43:925][419]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial
+[2020.03.25-10.27.43:930][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005244s)
+[2020.03.25-10.27.43:930][419]LogAIModule: Creating AISystem for world Tutorial
+[2020.03.25-10.27.43:931][419]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2020.03.25-10.27.43:931][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Tutorial.Tutorial to /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial.Tutorial (0.006037s)
+[2020.03.25-10.27.43:953][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.03.25-10.27.43:972][419]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.27.43:988][419]LogInit: FAudioDevice initialized.
+[2020.03.25-10.27.44:027][419]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.27.44:030][419]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2020.03.25-11.27.44
+[2020.03.25-10.27.44:031][419]LogLinker: Warning: Can't find file '/Game/FadeIn'
+[2020.03.25-10.27.44:031][419]LogLinker: Warning: Can't find file '/Game/FadeIn'
+[2020.03.25-10.27.44:031][419]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FadeIn.FadeIn'
+[2020.03.25-10.27.44:032][419]LogWorld: Bringing up level for play took: 0.003342
+[2020.03.25-10.27.44:047][419]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.25-10.27.44:049][419]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial 0.044
+[2020.03.25-10.27.44:049][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.27.47:101][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.27.47:101][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.27.47:133][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.27.47:134][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.27.47:159][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.27.47:162][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.25-10.27.47:206][786]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.03.25-10.27.48:894][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.27.49:139][ 16]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.25-10.28.01:496][488]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-10.28.15:959][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.28.16:051][218]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.28.16:063][218]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.28.16:063][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.28.16:063][218]PIE: New page: PIE session: Tutorial (Mar 25, 2020, 12:28:16 PM)
+[2020.03.25-10.28.16:064][218]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial
+[2020.03.25-10.28.16:069][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004861s)
+[2020.03.25-10.28.16:069][218]LogAIModule: Creating AISystem for world Tutorial
+[2020.03.25-10.28.16:069][218]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2020.03.25-10.28.16:069][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Tutorial.Tutorial to /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial.Tutorial (0.005468s)
+[2020.03.25-10.28.16:090][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.03.25-10.28.16:109][218]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.28.16:128][218]LogInit: FAudioDevice initialized.
+[2020.03.25-10.28.16:157][218]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.28.16:159][218]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2020.03.25-11.28.16
+[2020.03.25-10.28.16:160][218]LogWorld: Bringing up level for play took: 0.002256
+[2020.03.25-10.28.16:172][218]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Tutorial 0.168
+[2020.03.25-10.28.16:173][218]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.28.24:731][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.28.24:731][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.28.24:757][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.28.24:758][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial' with GeneratedClass '/Game/SideScrollerBP/Maps/Tutorial.Tutorial_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial'
+[2020.03.25-10.28.24:783][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.28.24:785][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.25-10.28.24:832][246]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.03.25-10.28.26:081][390]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SideScrollerBP/Maps/Tutorial.Tutorial:PersistentLevel.Tutorial
+[2020.03.25-10.28.26:315][390]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.03.25-10.28.27:022][390]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.25-10.28.27:061][391]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.25-10.28.31:506][901]LogSlate: Window 'Tutorial' being destroyed
+[2020.03.25-10.28.31:508][901]LogSlate: Window 'Tutorial' being destroyed
+[2020.03.25-10.28.34:018][174]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.28.34:026][174]LogAssetEditorManager: Opening Asset editor for World /Game/SideScrollerBP/Maps/Laboratory.Laboratory
+[2020.03.25-10.28.34:062][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.03.25-10.28.34:063][174]Cmd: MAP LOAD FILE="../../../../../Github/EleBot/wrong_clone_2/Content/SideScrollerBP/Maps/Laboratory.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-10.28.34:063][174]LightingResults: New page: Lighting Build
+[2020.03.25-10.28.34:064][174]LoadErrors: New page: Loading map: Laboratory.umap
+[2020.03.25-10.28.34:065][174]MapCheck: New page: Map Check
+[2020.03.25-10.28.34:065][174]LightingResults: New page: Lighting Build
+[2020.03.25-10.28.34:096][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.03.25-10.28.34:100][174]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-10.28.34:131][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.25-10.28.34:152][174]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-10.28.34:152][174]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2020.03.25-10.28.34:152][174]LogFileHelpers: Loading map 'Laboratory' took 0.090
+[2020.03.25-10.28.38:956][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.28.56:613][845]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.28.56:625][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.28.56:625][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.28.56:625][845]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:28:56 PM)
+[2020.03.25-10.28.56:625][845]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.28.56:628][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003230s)
+[2020.03.25-10.28.56:629][845]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.28.56:629][845]LogPlayLevel: PIE: World Init took: (0.000522s)
+[2020.03.25-10.28.56:629][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003933s)
+[2020.03.25-10.28.56:658][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.25-10.28.56:677][845]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.28.56:696][845]LogInit: FAudioDevice initialized.
+[2020.03.25-10.28.56:725][845]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.28.56:728][845]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.28.56
+[2020.03.25-10.28.56:728][845]LogWorld: Bringing up level for play took: 0.001643
+[2020.03.25-10.28.56:742][845]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory 0.738
+[2020.03.25-10.28.56:742][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.28.58:469][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.28.58:469][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.28.58:498][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.28.58:498][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.28.58:531][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.28.58:534][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.25-10.28.58:573][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.25-10.29.02:956][573]LogEditorViewport: Clicking on Actor (LMB): GameController_C (GameController)
+[2020.03.25-10.29.07:597][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.29.09:463][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.29.09:588][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.25-10.29.09:749][343]LogSavePackage: Moving '../../../../../Github/EleBot/wrong_clone_2/Saved/LaboratoryB963CD254B16F31CCBF9C98362F27B80.tmp' to '../../../../../Github/EleBot/wrong_clone_2/Content/SideScrollerBP/Maps/Laboratory.umap'
+[2020.03.25-10.29.10:348][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.29.10:414][418]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.29.10:426][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.10:426][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.29.10:427][418]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:29:10 PM)
+[2020.03.25-10.29.10:427][418]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.29.10:430][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003424s)
+[2020.03.25-10.29.10:431][418]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.29.10:431][418]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2020.03.25-10.29.10:431][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.004060s)
+[2020.03.25-10.29.10:461][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.03.25-10.29.10:480][418]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.29.10:499][418]LogInit: FAudioDevice initialized.
+[2020.03.25-10.29.10:527][418]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.29.10:529][418]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.29.10
+[2020.03.25-10.29.10:530][418]LogWorld: Bringing up level for play took: 0.001484
+[2020.03.25-10.29.10:543][418]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory 0.538
+[2020.03.25-10.29.10:543][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.12:123][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.12:124][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.12:151][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.29.12:152][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.12:185][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.12:189][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.25-10.29.12:228][606]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.25-10.29.17:015][174]LogEditorViewport: Clicking on Actor (LMB): GameController_C (GameController)
+[2020.03.25-10.29.21:292][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.29.21:400][682]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.29.21:412][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.21:412][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.29.21:412][682]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:29:21 PM)
+[2020.03.25-10.29.21:413][682]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.29.21:416][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003383s)
+[2020.03.25-10.29.21:417][682]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.29.21:417][682]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2020.03.25-10.29.21:417][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.004152s)
+[2020.03.25-10.29.21:445][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.25-10.29.21:464][682]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.29.21:483][682]LogInit: FAudioDevice initialized.
+[2020.03.25-10.29.21:508][682]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.29.21:509][682]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.29.21
+[2020.03.25-10.29.21:510][682]LogWorld: Bringing up level for play took: 0.001368
+[2020.03.25-10.29.21:523][682]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory -0.481
+[2020.03.25-10.29.21:523][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.23:868][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.23:868][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.23:899][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.29.23:899][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.23:932][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.23:936][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.25-10.29.23:970][960]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.25-10.29.24:859][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.29.35:127][289]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-10.29.44:561][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.29.45:058][430]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.29.45:070][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.45:070][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.29.45:070][430]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:29:45 PM)
+[2020.03.25-10.29.45:070][430]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.29.45:073][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003229s)
+[2020.03.25-10.29.45:074][430]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.29.45:074][430]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2020.03.25-10.29.45:074][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003848s)
+[2020.03.25-10.29.45:103][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.25-10.29.45:122][430]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.29.45:141][430]LogInit: FAudioDevice initialized.
+[2020.03.25-10.29.45:172][430]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.29.45:174][430]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.29.45
+[2020.03.25-10.29.45:174][430]LogWorld: Bringing up level for play took: 0.001429
+[2020.03.25-10.29.45:188][430]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory -0.817
+[2020.03.25-10.29.45:188][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.53:725][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.53:726][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.53:755][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.29.53:756][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.53:790][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.53:793][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.03.25-10.29.53:829][447]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.25-10.29.54:096][479]Cmd: SELECT NONE
+[2020.03.25-10.29.57:349][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.29.57:457][882]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.29.57:469][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.57:469][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.29.57:469][882]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:29:57 PM)
+[2020.03.25-10.29.57:469][882]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.29.57:472][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2020.03.25-10.29.57:473][882]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.29.57:473][882]LogPlayLevel: PIE: World Init took: (0.000467s)
+[2020.03.25-10.29.57:473][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003655s)
+[2020.03.25-10.29.57:503][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.03.25-10.29.57:521][882]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.29.57:541][882]LogInit: FAudioDevice initialized.
+[2020.03.25-10.29.57:566][882]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.29.57:568][882]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.29.57
+[2020.03.25-10.29.57:569][882]LogWorld: Bringing up level for play took: 0.001646
+[2020.03.25-10.29.57:581][882]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory -0.423
+[2020.03.25-10.29.57:582][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.58:420][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.58:421][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.58:449][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.29.58:450][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.29.58:483][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.29.58:487][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.25-10.29.58:526][984]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.25-10.30.04:809][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.30.09:970][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.03.25-10.30.10:890][439]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.03.25-10.30.11:042][455]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.03.25-10.30.20:141][520]LogEditorViewport: Clicking on Actor (LMB): GameController_C (GameController)
+[2020.03.25-10.30.20:810][593]Cmd: DELETE
+[2020.03.25-10.30.20:811][593]Cmd: ACTOR DELETE
+[2020.03.25-10.30.20:812][593]LogEditorActor: Deleted Actor: GameController_C
+[2020.03.25-10.30.20:864][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.25-10.30.20:865][593]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.03.25-10.30.21:787][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.30.22:154][748]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.30.22:167][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.30.22:167][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.30.22:167][748]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:30:22 PM)
+[2020.03.25-10.30.22:167][748]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.30.22:171][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2020.03.25-10.30.22:171][748]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.30.22:171][748]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2020.03.25-10.30.22:171][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003716s)
+[2020.03.25-10.30.22:199][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.25-10.30.22:220][748]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.30.22:238][748]LogInit: FAudioDevice initialized.
+[2020.03.25-10.30.22:269][748]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.30.22:271][748]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.30.22
+[2020.03.25-10.30.22:271][748]LogWorld: Bringing up level for play took: 0.001361
+[2020.03.25-10.30.22:284][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2020.03.25-10.30.22:284][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2020.03.25-10.30.22:284][748]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory 0.279
+[2020.03.25-10.30.22:284][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.30.23:373][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.30.23:373][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.30.23:404][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.30.23:404][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.30.23:438][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.30.23:441][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.03.25-10.30.23:475][880]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.25-10.30.28:924][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.32.06:164][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.32.12:052][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.32.26:272][537]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-10.32.26:272][537]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode
+[2020.03.25-10.32.57:520][247]LogSlate: Window 'SideScrollerGameMode' being destroyed
+[2020.03.25-10.32.57:587][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.32.57:590][247]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode
+[2020.03.25-10.33.04:067][976]LogSlate: Window 'SideScrollerGameMode' being destroyed
+[2020.03.25-10.33.04:070][976]LogSlate: Window 'SideScrollerGameMode' being destroyed
+[2020.03.25-10.33.07:803][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.33.07:862][412]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.33.07:878][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.07:878][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.33.07:878][412]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:33:07 PM)
+[2020.03.25-10.33.07:878][412]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.33.07:881][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003139s)
+[2020.03.25-10.33.07:882][412]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.33.07:882][412]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2020.03.25-10.33.07:882][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003815s)
+[2020.03.25-10.33.07:914][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.03.25-10.33.07:935][412]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.33.07:954][412]LogInit: FAudioDevice initialized.
+[2020.03.25-10.33.07:982][412]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.33.07:985][412]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.33.07
+[2020.03.25-10.33.07:985][412]LogWorld: Bringing up level for play took: 0.001447
+[2020.03.25-10.33.07:998][412]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2020.03.25-10.33.07:998][412]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2020.03.25-10.33.07:998][412]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory -0.006
+[2020.03.25-10.33.07:998][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.08:614][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.08:614][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.08:645][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.33.08:645][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.08:678][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.08:682][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.25-10.33.08:714][486]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.25-10.33.12:341][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.33.12:416][926]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.33.12:428][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.12:429][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.33.12:429][926]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:33:12 PM)
+[2020.03.25-10.33.12:429][926]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.33.12:432][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003035s)
+[2020.03.25-10.33.12:432][926]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.33.12:433][926]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2020.03.25-10.33.12:433][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003651s)
+[2020.03.25-10.33.12:461][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.25-10.33.12:481][926]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.33.12:499][926]LogInit: FAudioDevice initialized.
+[2020.03.25-10.33.12:527][926]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.33.12:529][926]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.33.12
+[2020.03.25-10.33.12:529][926]LogWorld: Bringing up level for play took: 0.001401
+[2020.03.25-10.33.12:542][926]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2020.03.25-10.33.12:543][926]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2020.03.25-10.33.12:543][926]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory 0.538
+[2020.03.25-10.33.12:543][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.14:427][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.14:427][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.14:454][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.33.14:454][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.14:489][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.14:493][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.03.25-10.33.14:532][153]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.25-10.33.22:672][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.33.31:053][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.33.31:153][106]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.33.31:164][106]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.31:164][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.33.31:164][106]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:33:31 PM)
+[2020.03.25-10.33.31:165][106]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.33.31:168][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003622s)
+[2020.03.25-10.33.31:169][106]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.33.31:169][106]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2020.03.25-10.33.31:169][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.004259s)
+[2020.03.25-10.33.31:201][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.25-10.33.31:221][106]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.33.31:240][106]LogInit: FAudioDevice initialized.
+[2020.03.25-10.33.31:267][106]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.33.31:269][106]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.33.31
+[2020.03.25-10.33.31:269][106]LogWorld: Bringing up level for play took: 0.001489
+[2020.03.25-10.33.31:282][106]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory -0.722
+[2020.03.25-10.33.31:283][106]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.31:813][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.31:813][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.31:840][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.33.31:840][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.31:874][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.31:877][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.25-10.33.31:912][167]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.25-10.33.34:521][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.33.37:351][791]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-10.33.39:352][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.33.39:460][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.33.39:472][ 24]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.39:472][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.33.39:472][ 24]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:33:39 PM)
+[2020.03.25-10.33.39:472][ 24]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.33.39:475][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003019s)
+[2020.03.25-10.33.39:476][ 24]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.33.39:476][ 24]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2020.03.25-10.33.39:476][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003607s)
+[2020.03.25-10.33.39:504][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.25-10.33.39:523][ 24]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.33.39:541][ 24]LogInit: FAudioDevice initialized.
+[2020.03.25-10.33.39:571][ 24]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.33.39:574][ 24]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.33.39
+[2020.03.25-10.33.39:574][ 24]LogWorld: Bringing up level for play took: 0.001466
+[2020.03.25-10.33.39:585][ 24]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.03.25-10.33.39:585][ 24]LogGameMode: Login: Couldn't spawn player controller of class NULL
+[2020.03.25-10.33.39:585][ 24]LogSpawn: Warning: Login failed: Failed to spawn player controller
+[2020.03.25-10.33.40:549][ 24]LogSlate: Window 'Message' being destroyed
+[2020.03.25-10.33.40:553][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.40:553][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.40:579][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.33.40:580][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.40:614][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.40:617][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.25-10.33.40:632][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.25-10.33.42:037][183]LogEditorViewport: Clicking on Actor (LMB): GameController_C (GameController)
+[2020.03.25-10.33.43:475][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.25-10.33.45:046][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-10.33.45:129][535]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-10.33.45:141][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.45:141][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-10.33.45:141][535]PIE: New page: PIE session: Laboratory (Mar 25, 2020, 12:33:45 PM)
+[2020.03.25-10.33.45:141][535]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory
+[2020.03.25-10.33.45:144][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002999s)
+[2020.03.25-10.33.45:145][535]LogAIModule: Creating AISystem for world Laboratory
+[2020.03.25-10.33.45:145][535]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2020.03.25-10.33.45:145][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/Laboratory.Laboratory to /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory (0.003613s)
+[2020.03.25-10.33.45:175][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.03.25-10.33.45:194][535]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.25-10.33.45:213][535]LogInit: FAudioDevice initialized.
+[2020.03.25-10.33.45:243][535]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2020.03.25-10.33.45:245][535]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_Laboratory.Laboratory up for play (max tick rate 0) at 2020.03.25-11.33.45
+[2020.03.25-10.33.45:245][535]LogWorld: Bringing up level for play took: 0.001450
+[2020.03.25-10.33.45:257][535]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.03.25-10.33.45:257][535]LogGameMode: Login: Couldn't spawn player controller of class NULL
+[2020.03.25-10.33.45:257][535]LogSpawn: Warning: Login failed: Failed to spawn player controller
+[2020.03.25-10.33.46:393][535]LogSlate: Window 'Message' being destroyed
+[2020.03.25-10.33.46:398][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.46:398][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.46:429][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-10.33.46:430][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory' with GeneratedClass '/Game/SideScrollerBP/Maps/Laboratory.Laboratory_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/Laboratory.Laboratory:PersistentLevel.Laboratory'
+[2020.03.25-10.33.46:463][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-10.33.46:466][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.25-10.33.46:500][535]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.25-10.33.46:500][535]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2020.03.25-10.33.47:893][535]LogWindows: Error: === Critical error: ===
+[2020.03.25-10.33.47:893][535]LogWindows: Error: 
+[2020.03.25-10.33.47:893][535]LogWindows: Error: Assertion failed: CurrentWorld [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Public\EngineUtils.h] [Line: 191] 
+[2020.03.25-10.33.47:893][535]LogWindows: Error: 
+[2020.03.25-10.33.47:893][535]LogWindows: Error: 
+[2020.03.25-10.33.47:893][535]LogWindows: Error: 
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007fff2f16a859 KERNELBASE.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee2651f37 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee26546e7 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee2467d1a UE4Editor-Core.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee23efe33 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee23f04d0 UE4Editor-Core.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed52beffe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed59358c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed5901640 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed132ab05 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed13b4a9e UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed13b47d6 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed13a7ffc UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed13a97d9 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffed13c83d2 UE4Editor-LevelEditor.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee6b83e2b UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee1f34c18 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee6b82571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:893][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee1f3479e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b82571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b826d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee1f39354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee1f39354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee1f39354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee1f39354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b82571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b826d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee1f3479e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b82571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b826d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee1f39354 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b82571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b826d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b84bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b826d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:894][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee6b82571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee6b81c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee6b8277a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee6b8419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee6b850fe UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee1d2d714 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee1d568d2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee1d2e2a2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee1d7a859 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ffee1d79a4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ff7d89f7a6a UE4Editor.exe!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ff7d8a0554c UE4Editor.exe!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ff7d8a055ca UE4Editor.exe!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ff7d8a1316c UE4Editor.exe!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007ff7d8a15b8e UE4Editor.exe!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007fff30307bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: [Callstack] 0x00007fff31d4ced1 ntdll.dll!UnknownFunction []
+[2020.03.25-10.33.47:895][535]LogWindows: Error: 
+[2020.03.25-10.33.47:905][535]LogExit: Executing StaticShutdownAfterError
+[2020.03.25-10.33.47:908][535]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.03.25-10.33.47:927][535]Log file closed, 03/25/20 11:33:47
